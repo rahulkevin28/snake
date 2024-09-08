@@ -1,0 +1,16 @@
+Simple Snake Game in Unity
+This is a classic Snake game developed using Unity. The snake grows in size each time it consumes the food, and the game ends if the snake either hits the walls or itself. The game provides a basic yet enjoyable gameplay experience for those who enjoy retro-style arcade games.
+
+Features:
+Increasing Size: Each time the snake eats food, it grows longer, making it progressively harder to avoid collisions.
+
+Game Over Conditions:
+1.The game ends if the snake runs into the walls of the game arena.
+2.The game ends if the snake runs into its own body.
+
+Simple Controls: Use the arrow keys (or customizable input) to navigate the snake on the screen.
+
+Project Setup:
+1. Clone the repository.
+2. Open the project in Unity.
+3. Play the game by clicking the "Play" button in the Unity Editor.
